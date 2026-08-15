@@ -103,7 +103,7 @@
             "last_commit": "2022-11-06T17:53:06Z",
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3488
+            "stars": 3489
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15813
+            "stars": 15812
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7384
+            "stars": 7383
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7384
+            "stars": 7383
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7384
+            "stars": 7383
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7384
+            "stars": 7383
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2020-03-03T19:12:02Z",
             "owner": "astorfi",
             "repo": "3D-convolutional-speaker-recognition",
-            "stars": 790
+            "stars": 791
           }
         },
         {
@@ -1025,7 +1025,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19810
+            "stars": 19809
           }
         },
         {
@@ -1070,10 +1070,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T23:02:45Z",
+            "last_commit": "2026-08-15T02:25:39Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654
+            "stars": 77652
           }
         },
         {
@@ -1084,10 +1084,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T23:02:45Z",
+            "last_commit": "2026-08-15T02:25:39Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654
+            "stars": 77652
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7384
+            "stars": 7383
           }
         },
         {
@@ -1185,7 +1185,7 @@
             "last_commit": "2026-07-14T05:34:38Z",
             "owner": "tensorforce",
             "repo": "tensorforce",
-            "stars": 3306
+            "stars": 3305
           }
         },
         {
@@ -1401,7 +1401,7 @@
             "last_commit": "2024-07-26T07:39:39Z",
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3543
+            "stars": 3544
           }
         },
         {
@@ -1423,7 +1423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:59:52.362Z",
+    "last_updated": "2026-08-15T22:58:41.258Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
     "enhanced_repository": "enhansome/enhansome-tensorflow",
