@@ -19,7 +19,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43735
+            "stars": 43734
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2021-01-15T20:20:02Z",
             "owner": "Hvass-Labs",
             "repo": "TensorFlow-Tutorials",
-            "stars": 9265
+            "stars": 9266
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2022-11-06T17:53:06Z",
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3489
+            "stars": 3485
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15812
+            "stars": 15816
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2019-04-18T18:36:45Z",
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2584
+            "stars": 2583
           }
         },
         {
@@ -1025,7 +1025,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19809
+            "stars": 19810
           }
         },
         {
@@ -1073,7 +1073,7 @@
             "last_commit": "2026-08-15T02:25:39Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-08-15T02:25:39Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9943
+            "stars": 9944
           }
         },
         {
@@ -1423,7 +1423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:58:41.258Z",
+    "last_updated": "2026-08-16T22:57:34.539Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
     "enhanced_repository": "enhansome/enhansome-tensorflow",
