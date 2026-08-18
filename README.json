@@ -193,7 +193,7 @@
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15817
+            "stars": 15821
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382
+            "stars": 7381
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382
+            "stars": 7381
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382
+            "stars": 7381
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382
+            "stars": 7381
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2020-03-03T19:12:02Z",
             "owner": "astorfi",
             "repo": "3D-convolutional-speaker-recognition",
-            "stars": 791
+            "stars": 792
           }
         },
         {
@@ -1025,7 +1025,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19809
+            "stars": 19808
           }
         },
         {
@@ -1070,10 +1070,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:48:47Z",
+            "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77651
           }
         },
         {
@@ -1084,10 +1084,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:48:47Z",
+            "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77651
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9946
+            "stars": 9957
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "last_commit": "2023-02-18T07:58:21Z",
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382
+            "stars": 7381
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "last_commit": "2023-08-06T00:30:36Z",
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6286
+            "stars": 6285
           }
         },
         {
@@ -1157,7 +1157,7 @@
             "last_commit": "2022-06-15T12:11:24Z",
             "owner": "transcranial",
             "repo": "keras-js",
-            "stars": 4964
+            "stars": 4963
           }
         },
         {
@@ -1387,7 +1387,7 @@
             "last_commit": "2024-07-22T02:07:03Z",
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8329
+            "stars": 8330
           }
         },
         {
@@ -1401,7 +1401,7 @@
             "last_commit": "2024-07-26T07:39:39Z",
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3544
+            "stars": 3543
           }
         },
         {
@@ -1423,7 +1423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:00:25.994Z",
+    "last_updated": "2026-08-18T23:00:01.722Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
     "enhanced_repository": "enhansome/enhansome-tensorflow",
