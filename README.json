@@ -15,7 +15,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43733
+            "stars": 43732
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2020-10-22T05:26:17Z",
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8587
+            "stars": 8586
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2020-12-23T00:18:21Z",
             "owner": "astorfi",
             "repo": "TensorFlow-World",
-            "stars": 4489
+            "stars": 4488
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-07-10T11:31:26Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15822
+            "stars": 15823
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2022-04-21T06:56:15Z",
             "owner": "mgsalem",
             "repo": "Tensorflow-Project-Template",
-            "stars": 3617
+            "stars": 3616
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2020-04-21T10:17:51Z",
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3554
+            "stars": 3553
           }
         },
         {
@@ -1173,7 +1173,7 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9958
+            "stars": 9959
           }
         },
         {
@@ -1517,7 +1517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:52.829Z",
+    "last_updated": "2026-08-19T23:01:05.566Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "original_repository_id": 52677592,
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
