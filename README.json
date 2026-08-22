@@ -201,7 +201,7 @@
             "last_commit": "2026-08-21T18:25:34Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15825
+            "stars": 15826
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2020-01-11T14:57:36Z",
             "owner": "mlachmish",
             "repo": "MusicGenreClassification",
-            "stars": 605
+            "stars": 606
           }
         },
         {
@@ -1092,7 +1092,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19808
+            "stars": 19809
           }
         },
         {
@@ -1517,7 +1517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:00:23.080Z",
+    "last_updated": "2026-08-22T22:58:54.508Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "original_repository_id": 52677592,
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",

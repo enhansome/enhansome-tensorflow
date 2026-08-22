@@ -53,7 +53,7 @@ More info [here](http://tensorflow.org).
 
 ## Models/Projects
 
-* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,825 | 🐛 0 | 📅 2026-08-21 - Framework for easily using Tensorflow with Kubernetes.
+* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,826 | 🐛 0 | 📅 2026-08-21 - Framework for easily using Tensorflow with Kubernetes.
 * [Policy Gradient](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) ⭐ 7,381 | 🐛 36 | 🌐 Python | 📅 2023-02-18 - For Playing Atari Ping Pong
 * [Deep Q-Network](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) ⭐ 7,381 | 🐛 36 | 🌐 Python | 📅 2023-02-18 - For Playing Frozen Lake Game
 * [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) ⭐ 7,381 | 🐛 36 | 🌐 Python | 📅 2023-02-18 - Actor Critic for Playing Discrete Action space Game (Cartpole)
@@ -80,7 +80,7 @@ More info [here](http://tensorflow.org).
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) ⭐ 788 | 🐛 17 | 🌐 Python | 📅 2018-07-27 - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 * [CNN visualization using Tensorflow](https://github.com/InFoCusp/tf_cnnvis) ⭐ 778 | 🐛 23 | 🌐 Python | 📅 2019-03-16 - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) ⭐ 703 | 🐛 19 | 🌐 Python | 📅 2018-02-10 - An attempt to implement the random handwriting generation portion of Alex Graves' paper
-* [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) ⭐ 605 | 🐛 10 | 🌐 Python | 📅 2020-01-11 - Classify music genre from a 10 second sound stream using a Neural Network.
+* [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) ⭐ 606 | 🐛 10 | 🌐 Python | 📅 2020-01-11 - Classify music genre from a 10 second sound stream using a Neural Network.
 * [GAN-CLS](https://github.com/zsdonghao/text-to-image) ⭐ 600 | 🐛 35 | 🌐 Python | 📅 2021-01-22 -Generative Adversarial Text to Image Synthesis
 * [U-Net](https://github.com/zsdonghao/u-net-brain-tumor) ⭐ 534 | 🐛 42 | 🌐 Python | 📅 2019-08-17 - For Brain Tumor Segmentation
 * [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) ⭐ 502 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2019-10-23 - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
@@ -256,15 +256,15 @@ Also, if you notice that any of the above listed repositories should be deprecat
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2\~3 years).
 
-More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md) ⭐ 17,553 | 🐛 34 | 📅 2026-02-08
+More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md) ⭐ 17,554 | 🐛 34 | 📅 2026-02-08
 
 <a name="credits" />
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 315,345 | 🐛 23 | 🌐 Python | 📅 2026-08-21
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 315,524 | 🐛 23 | 🌐 Python | 📅 2026-08-22
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
