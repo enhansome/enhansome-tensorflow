@@ -105,7 +105,7 @@
             "last_commit": "2022-11-06T17:53:06Z",
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3483
+            "stars": 3482
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2023-07-12T06:15:53Z",
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5428
+            "stars": 5427
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2018-02-10T08:17:23Z",
             "owner": "hardmaru",
             "repo": "write-rnn-tensorflow",
-            "stars": 703
+            "stars": 702
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2020-01-11T14:57:36Z",
             "owner": "mlachmish",
             "repo": "MusicGenreClassification",
-            "stars": 606
+            "stars": 607
           }
         },
         {
@@ -1143,7 +1143,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77649
           }
         },
         {
@@ -1158,7 +1158,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77649
           }
         },
         {
@@ -1173,7 +1173,7 @@
             "last_commit": "2026-07-07T22:31:42Z",
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9959
+            "stars": 9961
           }
         },
         {
@@ -1517,7 +1517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T22:58:54.508Z",
+    "last_updated": "2026-08-23T22:58:18.781Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "original_repository_id": 52677592,
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
