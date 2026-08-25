@@ -45,7 +45,7 @@
             "last_commit": "2020-10-22T05:26:17Z",
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8587
+            "stars": 8586
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-21T18:25:34Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15828
+            "stars": 15829
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-04-18T16:29:56Z",
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5539
+            "stars": 5540
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2023-07-12T06:15:53Z",
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5427
+            "stars": 5428
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2020-12-24T19:45:09Z",
             "owner": "cysmith",
             "repo": "neural-style-tf",
-            "stars": 3103
+            "stars": 3104
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2018-07-28T19:46:50Z",
             "owner": "yunjey",
             "repo": "show-attend-and-tell",
-            "stars": 906
+            "stars": 907
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2018-06-06T08:24:49Z",
             "owner": "yunjey",
             "repo": "domain-transfer-network",
-            "stars": 861
+            "stars": 862
           }
         },
         {
@@ -1188,7 +1188,7 @@
             "last_commit": "2024-05-06T11:34:20Z",
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9575
+            "stars": 9576
           }
         },
         {
@@ -1590,10 +1590,10 @@
             "archived": false,
             "id": 21289110,
             "language": "Python",
-            "last_commit": "2026-08-24T06:42:58Z",
+            "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315860
+            "stars": 315914
           }
         }
       ],
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:01:47.818Z",
+    "last_updated": "2026-08-25T05:51:18.052Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "original_repository_id": 52677592,
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
