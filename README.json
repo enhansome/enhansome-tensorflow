@@ -15,7 +15,7 @@
             "last_commit": "2024-07-26T19:46:13Z",
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43736
+            "stars": 43737
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-21T18:25:34Z",
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15829
+            "stars": 15832
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2020-03-03T19:12:02Z",
             "owner": "astorfi",
             "repo": "3D-convolutional-speaker-recognition",
-            "stars": 792
+            "stars": 793
           }
         },
         {
@@ -636,7 +636,7 @@
             "last_commit": "2019-08-17T21:55:15Z",
             "owner": "zsdonghao",
             "repo": "u-net-brain-tumor",
-            "stars": 534
+            "stars": 535
           }
         },
         {
@@ -1140,10 +1140,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77650
           }
         },
         {
@@ -1155,10 +1155,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77650
           }
         },
         {
@@ -1548,10 +1548,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77650
           }
         }
       ],
@@ -1572,7 +1572,7 @@
             "last_commit": "2024-06-25T20:42:58Z",
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28171
+            "stars": 28172
           }
         }
       ],
@@ -1593,7 +1593,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 315914
+            "stars": 316056
           }
         }
       ],
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:18.052Z",
+    "last_updated": "2026-08-25T23:03:13.952Z",
     "original_repository": "jtoy/awesome-tensorflow",
     "original_repository_id": 52677592,
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
