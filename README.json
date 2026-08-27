@@ -105,7 +105,7 @@
             "last_commit": "2022-11-06T17:53:06Z",
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3482
+            "stars": 3483
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2024-02-22T02:05:20Z",
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3466
+            "stars": 3467
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653
@@ -1155,7 +1155,7 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653
@@ -1293,7 +1293,7 @@
             "last_commit": "2024-04-10T12:25:23Z",
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3060
+            "stars": 3059
           }
         },
         {
@@ -1548,7 +1548,7 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653
@@ -1593,7 +1593,7 @@
             "last_commit": "2026-08-25T04:08:40Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316294
+            "stars": 316384
           }
         }
       ],
@@ -1601,9 +1601,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:34:21.883Z",
-    "original_repository": "jtoy/awesome-tensorflow",
-    "original_repository_id": 52677592,
+    "last_updated": "2026-08-27T12:09:27.372Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 52677592,
+      "language": null,
+      "last_commit": "2026-02-08T17:13:47Z",
+      "owner": "jtoy",
+      "repo": "awesome-tensorflow",
+      "stars": 17550
+    },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
     "enhanced_repository": "enhansome/enhansome-tensorflow",
     "enhanced_repository_description": null,
