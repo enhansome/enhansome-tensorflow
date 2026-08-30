@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43735,
+            "stars": 43733,
             "topics": [
               "deep-learning",
               "examples",
@@ -104,7 +104,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6028,
+            "stars": 6027,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5668,
+            "stars": 5667,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -336,7 +336,7 @@
             "open_issues": 0,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15840,
+            "stars": 15841,
             "topics": [
               "google-kubernetes-engine",
               "jupyter",
@@ -367,7 +367,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7380,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -405,7 +405,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7380,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -443,7 +443,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7380,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -481,7 +481,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7380,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -574,7 +574,7 @@
             "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5544,
+            "stars": 5546,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -595,7 +595,7 @@
             "open_issues": 176,
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5428,
+            "stars": 5429,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1894,7 +1894,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19807,
+            "stars": 19806,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2073,7 +2073,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7380,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -2749,7 +2749,7 @@
             "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 316804,
+            "stars": 317024,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2766,7 +2766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:46.549Z",
+    "last_updated": "2026-08-30T00:43:55.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
