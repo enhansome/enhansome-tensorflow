@@ -29,7 +29,7 @@ More info [here](http://tensorflow.org).
 
 ## Tutorials
 
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,729 | 🐛 228 | 🌐 Jupyter Notebook | 📅 2024-07-26 - TensorFlow tutorials and code examples for beginners
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,729 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 - TensorFlow tutorials and code examples for beginners
 * [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) ⭐ 9,267 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-01-15 - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,584 | 🐛 0 | 📅 2020-10-22 - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,028 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
@@ -59,7 +59,7 @@ More info [here](http://tensorflow.org).
 * [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) ⭐ 7,380 | 🐛 36 | 🌐 Python | 📅 2023-02-18 - Actor Critic for Playing Discrete Action space Game (Cartpole)
 * [A3C](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) ⭐ 7,380 | 🐛 36 | 🌐 Python | 📅 2023-02-18 - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
 * [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) ⭐ 6,139 | 🐛 642 | 🌐 Python | 📅 2023-10-23 - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
-* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,685 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,686 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,547 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
 * [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,429 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 * [Tensorflow-Project-Template](https://github.com/Mrgemy95/Tensorflow-Project-Template) ⭐ 3,616 | 🐛 5 | 🌐 Python | 📅 2022-04-21 - A simple and well-designed template for your tensorflow project.
@@ -76,12 +76,12 @@ More info [here](http://tensorflow.org).
 * [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) ⭐ 907 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2018-07-28 - Attention Based Image Caption Generator
 * [Domain Transfer Network](https://github.com/yunjey/dtn-tensorflow) ⭐ 862 | 🐛 11 | 🌐 Python | 📅 2018-06-06 - Implementation of Unsupervised Cross-Domain Image Generation
 * [Seq2seq-Chatbot](https://github.com/tensorlayer/seq2seq-chatbot) ⭐ 838 | 🐛 28 | 🌐 Python | 📅 2021-10-05 - Chatbot in 200 lines of code
-* [3D Convolutional Neural Networks in TensorFlow](https://github.com/astorfi/3D-convolutional-speaker-recognition) ⭐ 793 | 🐛 7 | 🌐 Python | 📅 2020-03-03 - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
+* [3D Convolutional Neural Networks in TensorFlow](https://github.com/astorfi/3D-convolutional-speaker-recognition) ⭐ 794 | 🐛 7 | 🌐 Python | 📅 2020-03-03 - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) ⭐ 788 | 🐛 17 | 🌐 Python | 📅 2018-07-27 - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 * [CNN visualization using Tensorflow](https://github.com/InFoCusp/tf_cnnvis) ⭐ 778 | 🐛 23 | 🌐 Python | 📅 2019-03-16 - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) ⭐ 702 | 🐛 19 | 🌐 Python | 📅 2018-02-10 - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 * [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) ⭐ 608 | 🐛 10 | 🌐 Python | 📅 2020-01-11 - Classify music genre from a 10 second sound stream using a Neural Network.
-* [GAN-CLS](https://github.com/zsdonghao/text-to-image) ⭐ 600 | 🐛 35 | 🌐 Python | 📅 2021-01-22 -Generative Adversarial Text to Image Synthesis
+* [GAN-CLS](https://github.com/zsdonghao/text-to-image) ⭐ 599 | 🐛 35 | 🌐 Python | 📅 2021-01-22 -Generative Adversarial Text to Image Synthesis
 * [U-Net](https://github.com/zsdonghao/u-net-brain-tumor) ⭐ 535 | 🐛 42 | 🌐 Python | 📅 2019-08-17 - For Brain Tumor Segmentation
 * [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) ⭐ 502 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2019-10-23 - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
 * [Neural Caption Generator with Attention](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) ⭐ 502 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2019-10-23 - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
@@ -157,8 +157,8 @@ More info [here](http://tensorflow.org).
 
 ## Tools/Utilities
 
-* [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) ⭐ 8,329 | 🐛 110 | 🌐 Python | 📅 2024-07-22 - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
-* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,544 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
+* [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) ⭐ 8,328 | 🐛 109 | 🌐 Python | 📅 2024-07-22 - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,543 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
 * [create-tf-app](https://github.com/radi-cho/create-tf-app) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-12-24 - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
 * [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 
@@ -256,15 +256,15 @@ Also, if you notice that any of the above listed repositories should be deprecat
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2\~3 years).
 
-More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md) ⭐ 17,550 | 🐛 34 | 📅 2026-02-08
+More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md) ⭐ 17,548 | 🐛 34 | 📅 2026-02-08
 
 <a name="credits" />
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 317,424 | 🐛 19 | 🌐 Python | 📅 2026-08-25
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 317,811 | 🐛 16 | 🌐 Python | 📅 2026-09-01
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

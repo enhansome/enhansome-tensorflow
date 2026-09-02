@@ -16,7 +16,7 @@
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
             "last_commit": "2024-07-26T19:46:13Z",
-            "open_issues": 228,
+            "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
             "stars": 43729,
@@ -553,7 +553,7 @@
             "open_issues": 110,
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5685,
+            "stars": 5686,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -822,7 +822,7 @@
             "open_issues": 28,
             "owner": "google",
             "repo": "prettytensor",
-            "stars": 1227,
+            "stars": 1226,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -994,7 +994,7 @@
             "open_issues": 7,
             "owner": "astorfi",
             "repo": "3D-convolutional-speaker-recognition",
-            "stars": 793,
+            "stars": 794,
             "topics": [
               "3d",
               "convolutional-neural-networks",
@@ -1123,7 +1123,7 @@
             "open_issues": 35,
             "owner": "zsdonghao",
             "repo": "text-to-image",
-            "stars": 600,
+            "stars": 599,
             "topics": [
               "gan",
               "tensorflow",
@@ -2556,10 +2556,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-07-22T02:07:03Z",
-            "open_issues": 110,
+            "open_issues": 109,
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8329,
+            "stars": 8328,
             "topics": [
               "ai",
               "analytics",
@@ -2587,7 +2587,7 @@
             "open_issues": 0,
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3544,
+            "stars": 3543,
             "topics": [
               "anaconda",
               "data-analysis",
@@ -2745,11 +2745,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T04:08:40Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-01T08:48:12Z",
+            "open_issues": 16,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 317424,
+            "stars": 317811,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2766,7 +2766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:23:31.790Z",
+    "last_updated": "2026-09-02T00:32:51.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2778,7 +2778,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17550,
+      "stars": 17548,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
