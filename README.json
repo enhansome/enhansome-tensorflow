@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43730,
+            "stars": 43732,
             "topics": [
               "deep-learning",
               "examples",
@@ -74,10 +74,10 @@
             "language": null,
             "license": null,
             "last_commit": "2020-10-22T05:26:17Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8583,
+            "stars": 8584,
             "topics": [
               "deep-learning",
               "ebook",
@@ -336,7 +336,7 @@
             "open_issues": 0,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15847,
+            "stars": 15850,
             "topics": [
               "google-kubernetes-engine",
               "jupyter",
@@ -367,7 +367,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7379,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -405,7 +405,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7379,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -443,7 +443,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7379,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -481,7 +481,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7379,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -670,7 +670,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3467,
+            "stars": 3468,
             "topics": [
               "cnn",
               "gan",
@@ -1976,7 +1976,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1997,7 +1997,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2045,7 +2045,7 @@
             "open_issues": 579,
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9575,
+            "stars": 9576,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2073,7 +2073,7 @@
             "open_issues": 36,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7379,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -2197,7 +2197,7 @@
             "open_issues": 45,
             "owner": "tensorforce",
             "repo": "tensorforce",
-            "stars": 3304,
+            "stars": 3303,
             "topics": [
               "control",
               "deep-reinforcement-learning",
@@ -2393,7 +2393,7 @@
             "open_issues": 15,
             "owner": "tensorlayer",
             "repo": "TensorLayerX",
-            "stars": 530,
+            "stars": 531,
             "topics": [
               "deep-learning",
               "jittor",
@@ -2688,7 +2688,7 @@
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659,
+            "stars": 77660,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2746,10 +2746,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 318533,
+            "stars": 318875,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2766,7 +2766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T00:14:04.807Z",
+    "last_updated": "2026-09-07T00:21:07.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2778,7 +2778,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17548,
+      "stars": 17549,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
