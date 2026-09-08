@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43732,
+            "stars": 43733,
             "topics": [
               "deep-learning",
               "examples",
@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "Hvass-Labs",
             "repo": "TensorFlow-Tutorials",
-            "stars": 9268,
+            "stars": 9267,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5668,
+            "stars": 5669,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -336,7 +336,7 @@
             "open_issues": 0,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15850,
+            "stars": 15852,
             "topics": [
               "google-kubernetes-engine",
               "jupyter",
@@ -1894,7 +1894,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19799,
+            "stars": 19798,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2138,7 +2138,7 @@
             "open_issues": 81,
             "owner": "transcranial",
             "repo": "keras-js",
-            "stars": 4963,
+            "stars": 4964,
             "topics": [
               "deep-learning",
               "javascript",
@@ -2226,7 +2226,7 @@
             "open_issues": 4,
             "owner": "tensorflow",
             "repo": "skflow",
-            "stars": 3167,
+            "stars": 3165,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2247,7 +2247,7 @@
             "open_issues": 326,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3059,
+            "stars": 3058,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2372,7 +2372,7 @@
             "open_issues": 54,
             "owner": "databricks",
             "repo": "tensorframes",
-            "stars": 744,
+            "stars": 743,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2746,10 +2746,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 318875,
+            "stars": 319148,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2766,7 +2766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:21:07.707Z",
+    "last_updated": "2026-09-08T00:41:12.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2778,7 +2778,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17549,
+      "stars": 17552,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
