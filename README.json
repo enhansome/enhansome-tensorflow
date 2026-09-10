@@ -336,7 +336,7 @@
             "open_issues": 0,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15853,
+            "stars": 15855,
             "topics": [
               "google-kubernetes-engine",
               "jupyter",
@@ -516,7 +516,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2023-10-23T23:26:26Z",
-            "open_issues": 642,
+            "open_issues": 641,
             "owner": "thtrieu",
             "repo": "darkflow",
             "stars": 6139,
@@ -701,7 +701,7 @@
             "open_issues": 68,
             "owner": "cysmith",
             "repo": "neural-style-tf",
-            "stars": 3104,
+            "stars": 3103,
             "topics": [
               "convolutional-neural-network",
               "deep-learning",
@@ -1972,11 +1972,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1993,11 +1993,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2684,11 +2684,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2715,7 +2715,7 @@
             "open_issues": 203,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28179,
+            "stars": 28180,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2746,10 +2746,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T08:48:12Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 319383,
+            "stars": 319583,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2766,7 +2766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T00:38:22.126Z",
+    "last_updated": "2026-09-10T00:36:41.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
