@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15871,
+            "stars": 15870,
             "topics": [
               "google-kubernetes-engine",
               "jupyter",
@@ -1020,7 +1020,7 @@
             "open_issues": 17,
             "owner": "carpedm20",
             "repo": "lstm-char-cnn-tensorflow",
-            "stars": 788,
+            "stars": 787,
             "topics": [
               "cnn",
               "lstm",
@@ -1894,7 +1894,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19798,
+            "stars": 19796,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1973,10 +1973,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T18:51:07Z",
-            "open_issues": 1274,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1994,10 +1994,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T18:51:07Z",
-            "open_issues": 1274,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2587,7 +2587,7 @@
             "open_issues": 0,
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3545,
+            "stars": 3546,
             "topics": [
               "anaconda",
               "data-analysis",
@@ -2685,10 +2685,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T18:51:07Z",
-            "open_issues": 1274,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2715,7 +2715,7 @@
             "open_issues": 203,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28190,
+            "stars": 28191,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2745,11 +2745,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T16:48:04Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-18T22:11:03Z",
+            "open_issues": 25,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 321340,
+            "stars": 321569,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2766,7 +2766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T00:47:51.565Z",
+    "last_updated": "2026-09-19T00:38:54.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2778,7 +2778,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17551,
+      "stars": 17552,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
