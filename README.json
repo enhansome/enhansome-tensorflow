@@ -77,7 +77,7 @@
             "open_issues": 1,
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8582,
+            "stars": 8581,
             "topics": [
               "deep-learning",
               "ebook",
@@ -174,7 +174,7 @@
             "open_issues": 22,
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3483,
+            "stars": 3484,
             "topics": [
               "activity-recognition",
               "deep-learning",
@@ -753,7 +753,7 @@
             "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2583,
+            "stars": 2582,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1976,7 +1976,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1997,7 +1997,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2018,7 +2018,7 @@
             "open_issues": 44,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9970,
+            "stars": 9971,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -2688,7 +2688,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2715,7 +2715,7 @@
             "open_issues": 203,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28191,
+            "stars": 28192,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2746,10 +2746,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T22:11:03Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 321569,
+            "stars": 321757,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2766,7 +2766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:38:54.400Z",
+    "last_updated": "2026-09-20T00:24:36.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2778,7 +2778,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17552,
+      "stars": 17551,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
