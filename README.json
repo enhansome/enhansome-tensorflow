@@ -367,7 +367,7 @@
             "open_issues": 37,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7382,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -405,7 +405,7 @@
             "open_issues": 37,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7382,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -443,7 +443,7 @@
             "open_issues": 37,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7382,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -481,7 +481,7 @@
             "open_issues": 37,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7382,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -553,7 +553,7 @@
             "open_issues": 110,
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5686,
+            "stars": 5687,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -574,7 +574,7 @@
             "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5549,
+            "stars": 5548,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -753,7 +753,7 @@
             "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2583,
+            "stars": 2584,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -774,7 +774,7 @@
             "open_issues": 7,
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1902,
+            "stars": 1901,
             "topics": [
               "3d-convolutional-network",
               "computer-vision",
@@ -962,7 +962,7 @@
             "open_issues": 28,
             "owner": "tensorlayer",
             "repo": "seq2seq-chatbot",
-            "stars": 838,
+            "stars": 839,
             "topics": [
               "bot",
               "chat",
@@ -2018,7 +2018,7 @@
             "open_issues": 44,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9969,
+            "stars": 9970,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -2045,7 +2045,7 @@
             "open_issues": 579,
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9573,
+            "stars": 9572,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2073,7 +2073,7 @@
             "open_issues": 37,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7381,
+            "stars": 7382,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -2247,7 +2247,7 @@
             "open_issues": 326,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3058,
+            "stars": 3059,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2559,7 +2559,7 @@
             "open_issues": 109,
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8326,
+            "stars": 8328,
             "topics": [
               "ai",
               "analytics",
@@ -2715,7 +2715,7 @@
             "open_issues": 203,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28194,
+            "stars": 28196,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2745,11 +2745,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T08:25:59Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-25T08:04:34Z",
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 322795,
+            "stars": 323017,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2766,7 +2766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:51:44.251Z",
+    "last_updated": "2026-09-26T00:53:51.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
