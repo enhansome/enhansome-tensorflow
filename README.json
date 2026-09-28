@@ -146,7 +146,7 @@
             "open_issues": 3,
             "owner": "astorfi",
             "repo": "TensorFlow-World",
-            "stars": 4487,
+            "stars": 4488,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15881,
+            "stars": 15880,
             "topics": [
               "google-kubernetes-engine",
               "jupyter",
@@ -574,7 +574,7 @@
             "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5549,
+            "stars": 5548,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -616,7 +616,7 @@
             "open_issues": 5,
             "owner": "mgsalem",
             "repo": "Tensorflow-Project-Template",
-            "stars": 3616,
+            "stars": 3615,
             "topics": [
               "best-practices",
               "convolutional-neural-networks",
@@ -670,7 +670,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3466,
+            "stars": 3467,
             "topics": [
               "cnn",
               "gan",
@@ -727,7 +727,7 @@
             "open_issues": 93,
             "owner": "Conchylicultor",
             "repo": "DeepQA",
-            "stars": 2909,
+            "stars": 2908,
             "topics": [
               "chatbot",
               "deep-learning",
@@ -774,7 +774,7 @@
             "open_issues": 7,
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1901,
+            "stars": 1902,
             "topics": [
               "3d-convolutional-network",
               "computer-vision",
@@ -994,7 +994,7 @@
             "open_issues": 7,
             "owner": "astorfi",
             "repo": "3D-convolutional-speaker-recognition",
-            "stars": 794,
+            "stars": 795,
             "topics": [
               "3d",
               "convolutional-neural-networks",
@@ -1894,7 +1894,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19797,
+            "stars": 19798,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1976,7 +1976,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1997,7 +1997,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2688,7 +2688,7 @@
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653,
+            "stars": 77652,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2715,7 +2715,7 @@
             "open_issues": 203,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28195,
+            "stars": 28196,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2745,11 +2745,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T08:04:34Z",
+            "last_commit": "2026-09-27T13:05:53Z",
             "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 323323,
+            "stars": 323573,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2766,7 +2766,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:53:29.355Z",
+    "last_updated": "2026-09-28T01:11:06.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
