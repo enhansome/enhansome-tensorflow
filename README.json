@@ -580,7 +580,7 @@
             "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5546,
+            "stars": 5547,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1979,7 +1979,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653,
@@ -2000,7 +2000,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653,
@@ -2691,7 +2691,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653,
@@ -2742,7 +2742,7 @@
         {
           "node_type": "item",
           "title": "Some of the python libraries were cut-and-pasted from vinta",
-          "description": null,
+          "description": "vinta/awesome-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2752,10 +2752,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324757,
+            "stars": 324780,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:27:40.878Z",
+    "last_updated": "2026-10-03T05:08:47.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
