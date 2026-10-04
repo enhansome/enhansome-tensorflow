@@ -29,9 +29,9 @@ More info [here](http://tensorflow.org).
 
 ## Tutorials
 
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,741 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 - TensorFlow tutorials and code examples for beginners
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,740 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 - TensorFlow tutorials and code examples for beginners
 * [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) ⭐ 9,266 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-01-15 - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
-* [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,579 | 🐛 1 | 📅 2020-10-22 - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
+* [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,578 | 🐛 1 | 📅 2020-10-22 - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,032 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,674 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,489 | 🐛 3 | 🌐 Python | 📅 2020-12-23 - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
@@ -126,12 +126,12 @@ More info [here](http://tensorflow.org).
 
 ## Libraries
 
-* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01 - High-level library for defining models
-* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
+* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,654 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01 - High-level library for defining models
+* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,654 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
 * [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,971 | 🐛 44 | 🌐 Python | 📅 2026-09-29 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
 * [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,570 | 🐛 579 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
 * [TensorLayer](https://github.com/tensorlayer/tensorlayer) ⭐ 7,383 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - Deep learning and reinforcement learning library for researchers and engineers
-* [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,285 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
+* [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,286 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 * [keras-js](https://github.com/transcranial/keras-js) ⭐ 4,964 | 🐛 81 | 🌐 JavaScript | 📅 2022-06-15 - Run Keras models (tensorflow backend) in the browser, with GPU support
 * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) ⭐ 3,847 | 🐛 16 | 🌐 Python | 📅 2023-07-10 - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
 * [TensorForce](https://github.com/reinforceio/tensorforce) ⭐ 3,305 | 🐛 47 | 🌐 Python | 📅 2026-09-02 - TensorForce: A TensorFlow library for applied reinforcement learning
@@ -185,7 +185,7 @@ More info [here](http://tensorflow.org).
 
 ## Papers
 
-* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01.
+* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,654 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01.
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
@@ -233,7 +233,7 @@ More info [here](http://tensorflow.org).
 
 ## Books
 
-* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,176 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25 - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,177 | 🐛 203 | 🌐 Jupyter Notebook | 📅 2024-06-25 - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
 * [Machine Learning with TensorFlow 2nd edition](\[http://tensorflowbook.com]\(https://github.com/chrismattmann/MLwithTensorFlow2ed\)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
@@ -262,9 +262,9 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 324,780 | 🐛 21 | 🌐 Python | 📅 2026-10-02
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 324,963 | 🐛 22 | 🌐 Python | 📅 2026-10-02
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
