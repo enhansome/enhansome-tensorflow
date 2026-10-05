@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43740,
+            "stars": 43741,
             "topics": [
               "deep-learning",
               "examples",
@@ -104,7 +104,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6032,
+            "stars": 6031,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5674,
+            "stars": 5673,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -143,7 +143,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2020-12-23T00:18:21Z",
-            "open_issues": 3,
+            "open_issues": 7,
             "owner": "astorfi",
             "repo": "TensorFlow-World",
             "stars": 4489,
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15896,
+            "stars": 15898,
             "topics": [
               "agentic-ai",
               "ai",
@@ -968,7 +968,7 @@
             "open_issues": 28,
             "owner": "tensorlayer",
             "repo": "seq2seq-chatbot",
-            "stars": 839,
+            "stars": 840,
             "topics": [
               "bot",
               "chat",
@@ -1982,7 +1982,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2003,7 +2003,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2232,7 +2232,7 @@
             "open_issues": 4,
             "owner": "tensorflow",
             "repo": "skflow",
-            "stars": 3165,
+            "stars": 3164,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2253,7 +2253,7 @@
             "open_issues": 326,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3060,
+            "stars": 3061,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2694,7 +2694,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654,
+            "stars": 77656,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2752,10 +2752,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324963,
+            "stars": 325203,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T01:59:29.044Z",
+    "last_updated": "2026-10-05T01:17:33.727Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
