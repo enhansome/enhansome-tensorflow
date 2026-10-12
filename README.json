@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "Hvass-Labs",
             "repo": "TensorFlow-Tutorials",
-            "stars": 9267,
+            "stars": 9268,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -174,7 +174,7 @@
             "open_issues": 22,
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3487,
+            "stars": 3488,
             "topics": [
               "activity-recognition",
               "deep-learning",
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15898,
+            "stars": 15899,
             "topics": [
               "agentic-ai",
               "ai",
@@ -1982,7 +1982,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650,
+            "stars": 77649,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2003,7 +2003,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650,
+            "stars": 77649,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2694,7 +2694,7 @@
             "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650,
+            "stars": 77649,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2721,7 +2721,7 @@
             "open_issues": 204,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28182,
+            "stars": 28181,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2751,11 +2751,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T11:10:01Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-11T17:28:13Z",
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 326401,
+            "stars": 326666,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T01:15:42.577Z",
+    "last_updated": "2026-10-12T01:47:56.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
