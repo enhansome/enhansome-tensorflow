@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43743,
+            "stars": 43742,
             "topics": [
               "deep-learning",
               "examples",
@@ -104,7 +104,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6029,
+            "stars": 6028,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -174,7 +174,7 @@
             "open_issues": 22,
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3488,
+            "stars": 3487,
             "topics": [
               "activity-recognition",
               "deep-learning",
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15904,
+            "stars": 15910,
             "topics": [
               "agentic-ai",
               "ai",
@@ -1437,7 +1437,7 @@
             "open_issues": 7,
             "owner": "tensorlayer",
             "repo": "DAGAN",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1982,7 +1982,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2003,7 +2003,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 44,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9973,
+            "stars": 9974,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -2694,7 +2694,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2751,11 +2751,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T16:01:43Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-15T15:39:44Z",
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 327454,
+            "stars": 327699,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:53:38.972Z",
+    "last_updated": "2026-10-16T00:46:13.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2784,7 +2784,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17534,
+      "stars": 17533,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
