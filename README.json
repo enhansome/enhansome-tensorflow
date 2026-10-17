@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "Hvass-Labs",
             "repo": "TensorFlow-Tutorials",
-            "stars": 9270,
+            "stars": 9269,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -525,7 +525,7 @@
             "open_issues": 641,
             "owner": "thtrieu",
             "repo": "darkflow",
-            "stars": 6141,
+            "stars": 6140,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -759,7 +759,7 @@
             "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2589,
+            "stars": 2590,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -780,7 +780,7 @@
             "open_issues": 7,
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1903,
+            "stars": 1904,
             "topics": [
               "3d-convolutional-network",
               "computer-vision",
@@ -873,7 +873,7 @@
             "open_issues": 17,
             "owner": "taehoonlee",
             "repo": "tensornets",
-            "stars": 995,
+            "stars": 994,
             "topics": [
               "deep-learning",
               "densenet",
@@ -1900,7 +1900,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19791,
+            "stars": 19789,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2751,11 +2751,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T15:39:44Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-16T17:25:26Z",
+            "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 327699,
+            "stars": 327970,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:46:13.498Z",
+    "last_updated": "2026-10-17T00:46:44.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2784,7 +2784,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17533,
+      "stars": 17534,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
