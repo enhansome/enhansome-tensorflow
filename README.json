@@ -174,7 +174,7 @@
             "open_issues": 22,
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3487,
+            "stars": 3488,
             "topics": [
               "activity-recognition",
               "deep-learning",
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15914,
+            "stars": 15915,
             "topics": [
               "agentic-ai",
               "ai",
@@ -373,7 +373,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382,
+            "stars": 7383,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -411,7 +411,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382,
+            "stars": 7383,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -449,7 +449,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382,
+            "stars": 7383,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -487,7 +487,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382,
+            "stars": 7383,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -559,7 +559,7 @@
             "open_issues": 110,
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5685,
+            "stars": 5686,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -601,7 +601,7 @@
             "open_issues": 176,
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5422,
+            "stars": 5423,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -676,7 +676,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3466,
+            "stars": 3467,
             "topics": [
               "cnn",
               "gan",
@@ -759,7 +759,7 @@
             "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2589,
+            "stars": 2591,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -849,7 +849,7 @@
             "open_issues": 11,
             "owner": "carpedm20",
             "repo": "NTM-tensorflow",
-            "stars": 1046,
+            "stars": 1047,
             "topics": [
               "neural-turing-machines",
               "tensorflow"
@@ -1982,7 +1982,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77644,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2003,7 +2003,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77644,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2051,7 +2051,7 @@
             "open_issues": 579,
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9568,
+            "stars": 9569,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2079,7 +2079,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7382,
+            "stars": 7383,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -2565,7 +2565,7 @@
             "open_issues": 109,
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8327,
+            "stars": 8328,
             "topics": [
               "ai",
               "analytics",
@@ -2593,7 +2593,7 @@
             "open_issues": 0,
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3548,
+            "stars": 3549,
             "topics": [
               "anaconda",
               "data-analysis",
@@ -2694,7 +2694,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77644,
+            "stars": 77645,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2721,7 +2721,7 @@
             "open_issues": 204,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28184,
+            "stars": 28185,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2751,11 +2751,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-17T08:58:57Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-19T05:39:01Z",
+            "open_issues": 16,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 328490,
+            "stars": 328755,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:30:54.931Z",
+    "last_updated": "2026-10-20T01:17:07.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
