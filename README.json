@@ -77,7 +77,7 @@
             "open_issues": 1,
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8579,
+            "stars": 8578,
             "topics": [
               "deep-learning",
               "ebook",
@@ -104,7 +104,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6030,
+            "stars": 6031,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15922,
+            "stars": 15921,
             "topics": [
               "agentic-ai",
               "ai",
@@ -559,7 +559,7 @@
             "open_issues": 110,
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5686,
+            "stars": 5685,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -676,7 +676,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3467,
+            "stars": 3466,
             "topics": [
               "cnn",
               "gan",
@@ -780,7 +780,7 @@
             "open_issues": 7,
             "owner": "astorfi",
             "repo": "lip-reading-deeplearning",
-            "stars": 1904,
+            "stars": 1905,
             "topics": [
               "3d-convolutional-network",
               "computer-vision",
@@ -1155,7 +1155,7 @@
             "open_issues": 42,
             "owner": "zsdonghao",
             "repo": "u-net-brain-tumor",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "medical-imaging",
               "tensorflow",
@@ -1900,7 +1900,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19786,
+            "stars": 19785,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1978,11 +1978,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T17:38:40Z",
+            "last_commit": "2026-10-23T03:36:49Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646,
+            "stars": 77649,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1999,11 +1999,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T17:38:40Z",
+            "last_commit": "2026-10-23T03:36:49Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646,
+            "stars": 77649,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 45,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9977,
+            "stars": 9976,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -2590,7 +2590,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2024-07-26T07:39:39Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "ml-tooling",
             "repo": "ml-workspace",
             "stars": 3551,
@@ -2690,11 +2690,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T17:38:40Z",
+            "last_commit": "2026-10-23T03:36:49Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646,
+            "stars": 77649,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2752,10 +2752,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-22T19:52:53Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 329509,
+            "stars": 329745,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:57:51.047Z",
+    "last_updated": "2026-10-24T01:07:18.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
