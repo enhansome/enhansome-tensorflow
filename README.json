@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43742,
+            "stars": 43744,
             "topics": [
               "deep-learning",
               "examples",
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15921,
+            "stars": 15922,
             "topics": [
               "agentic-ai",
               "ai",
@@ -580,7 +580,7 @@
             "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5547,
+            "stars": 5546,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -676,7 +676,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3466,
+            "stars": 3467,
             "topics": [
               "cnn",
               "gan",
@@ -2051,7 +2051,7 @@
             "open_issues": 580,
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9570,
+            "stars": 9569,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2203,7 +2203,7 @@
             "open_issues": 47,
             "owner": "tensorforce",
             "repo": "tensorforce",
-            "stars": 3305,
+            "stars": 3306,
             "topics": [
               "control",
               "deep-reinforcement-learning",
@@ -2755,7 +2755,7 @@
             "open_issues": 17,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 329745,
+            "stars": 330016,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:07:18.601Z",
+    "last_updated": "2026-10-25T00:32:04.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2784,7 +2784,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17532,
+      "stars": 17531,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
