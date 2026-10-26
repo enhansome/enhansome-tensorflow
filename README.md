@@ -29,11 +29,11 @@ More info [here](http://tensorflow.org).
 
 ## Tutorials
 
-* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,744 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 - TensorFlow tutorials and code examples for beginners
-* [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) ⭐ 9,270 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-01-15 - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) ⭐ 43,747 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2024-07-26 - TensorFlow tutorials and code examples for beginners
+* [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) ⭐ 9,272 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-01-15 - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow) ⭐ 8,578 | 🐛 1 | 📅 2020-10-22 - TensorFlow howtos and best practices. Covers the basics as well as advanced topics.
-* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,031 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
-* [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,671 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - From the basics to slightly more interesting applications of TensorFlow
+* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials) ⭐ 6,032 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2023-08-20 - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
+* [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) ⭐ 5,672 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2021-12-11 - From the basics to slightly more interesting applications of TensorFlow
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) ⭐ 4,489 | 🐛 7 | 🌐 Python | 📅 2020-12-23 - Concise and ready-to-use TensorFlow tutorials with detailed documentation are provided.
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) ⭐ 3,489 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-11-06 - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) ⭐ 2,590 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2020-03-23 - TensorFlow tutorials written in Python with Jupyter Notebook
@@ -53,19 +53,19 @@ More info [here](http://tensorflow.org).
 
 ## Models/Projects
 
-* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,922 | 🐛 1 | 📅 2026-09-30 - Framework for easily using Tensorflow with Kubernetes.
-* [Policy Gradient](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) ⭐ 7,385 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - For Playing Atari Ping Pong
-* [Deep Q-Network](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) ⭐ 7,385 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - For Playing Frozen Lake Game
-* [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) ⭐ 7,385 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - Actor Critic for Playing Discrete Action space Game (Cartpole)
-* [A3C](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) ⭐ 7,385 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
-* [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) ⭐ 6,141 | 🐛 641 | 🌐 Python | 📅 2023-10-23 - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
-* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,685 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
-* [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,546 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
-* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,423 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
+* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,924 | 🐛 1 | 📅 2026-09-30 - Framework for easily using Tensorflow with Kubernetes.
+* [Policy Gradient](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) ⭐ 7,386 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - For Playing Atari Ping Pong
+* [Deep Q-Network](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) ⭐ 7,386 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - For Playing Frozen Lake Game
+* [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) ⭐ 7,386 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - Actor Critic for Playing Discrete Action space Game (Cartpole)
+* [A3C](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) ⭐ 7,386 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - Asynchronous Advantage Actor Critic (A3C) for Continuous Action Space (Bipedal Walker)
+* [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) ⭐ 6,142 | 🐛 641 | 🌐 Python | 📅 2023-10-23 - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
+* [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) ⭐ 5,686 | 🐛 110 | 🌐 Python | 📅 2024-04-15 - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+* [Neural Style](https://github.com/anishathalye/neural-style) ⭐ 5,547 | 🐛 6 | 🌐 Python | 📅 2026-04-18 - An implementation of neural style
+* [Wavenet](https://github.com/ibab/tensorflow-wavenet) ⭐ 5,424 | 🐛 176 | 🌐 Python | 📅 2023-07-12 - This is a TensorFlow implementation of the [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 * [Tensorflow-Project-Template](https://github.com/Mrgemy95/Tensorflow-Project-Template) ⭐ 3,616 | 🐛 5 | 🌐 Python | 📅 2022-04-21 - A simple and well-designed template for your tensorflow project.
 * [Colornet - Neural Network to colorize grayscale images](https://github.com/pavelgonchar/colornet) ⭐ 3,547 | 🐛 14 | 🌐 Python | 📅 2020-04-21 - Neural Network to colorize grayscale images
 * [SRGAN](https://github.com/tensorlayer/srgan) ⭐ 3,467 | 🐛 153 | 🌐 Python | 📅 2024-02-22 - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-* [Neural Style](https://github.com/cysmith/neural-style-tf) ⭐ 3,103 | 🐛 68 | 🌐 Python | 📅 2020-12-24 Implementation of Neural Style
+* [Neural Style](https://github.com/cysmith/neural-style-tf) ⭐ 3,104 | 🐛 68 | 🌐 Python | 📅 2020-12-24 Implementation of Neural Style
 * [Chatbot](https://github.com/Conchylicultor/DeepQA) ⭐ 2,906 | 🐛 93 | 🌐 Python | 📅 2022-12-30 - Implementation of ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
 * [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) ⭐ 2,591 | 🐛 39 | 🌐 Python | 📅 2019-04-18 - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
 * [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow](https://github.com/astorfi/lip-reading-deeplearning) ⭐ 1,905 | 🐛 7 | 🌐 Python | 📅 2022-11-07 - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
@@ -75,12 +75,12 @@ More info [here](http://tensorflow.org).
 * [TensorNets](https://github.com/taehoonlee/tensornets) ⭐ 994 | 🐛 17 | 🌐 Python | 📅 2021-01-02 - 40+ Popular Computer Vision Models With Pre-trained Weights.
 * [Show, Attend and Tell](https://github.com/yunjey/show_attend_and_tell) ⭐ 908 | 🐛 57 | 🌐 Jupyter Notebook | 📅 2018-07-28 - Attention Based Image Caption Generator
 * [Domain Transfer Network](https://github.com/yunjey/dtn-tensorflow) ⭐ 863 | 🐛 11 | 🌐 Python | 📅 2018-06-06 - Implementation of Unsupervised Cross-Domain Image Generation
-* [Seq2seq-Chatbot](https://github.com/tensorlayer/seq2seq-chatbot) ⭐ 840 | 🐛 28 | 🌐 Python | 📅 2021-10-05 - Chatbot in 200 lines of code
+* [Seq2seq-Chatbot](https://github.com/tensorlayer/seq2seq-chatbot) ⭐ 839 | 🐛 28 | 🌐 Python | 📅 2021-10-05 - Chatbot in 200 lines of code
 * [3D Convolutional Neural Networks in TensorFlow](https://github.com/astorfi/3D-convolutional-speaker-recognition) ⭐ 795 | 🐛 7 | 🌐 Python | 📅 2020-03-03 - Implementation of ["3D Convolutional Neural Networks for Speaker Verification application"](https://arxiv.org/abs/1705.09422) in TensorFlow by Torfi et al.
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) ⭐ 787 | 🐛 17 | 🌐 Python | 📅 2018-07-27 - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 * [CNN visualization using Tensorflow](https://github.com/InFoCusp/tf_cnnvis) ⭐ 777 | 🐛 23 | 🌐 Python | 📅 2019-03-16 - Tensorflow implementation of ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 * [Generative Handwriting Demo using TensorFlow](https://github.com/hardmaru/write-rnn-tensorflow) ⭐ 701 | 🐛 19 | 🌐 Python | 📅 2018-02-10 - An attempt to implement the random handwriting generation portion of Alex Graves' paper
-* [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) ⭐ 608 | 🐛 10 | 🌐 Python | 📅 2020-01-11 - Classify music genre from a 10 second sound stream using a Neural Network.
+* [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) ⭐ 606 | 🐛 10 | 🌐 Python | 📅 2020-01-11 - Classify music genre from a 10 second sound stream using a Neural Network.
 * [GAN-CLS](https://github.com/zsdonghao/text-to-image) ⭐ 599 | 🐛 35 | 🌐 Python | 📅 2021-01-22 -Generative Adversarial Text to Image Synthesis
 * [U-Net](https://github.com/zsdonghao/u-net-brain-tumor) ⭐ 537 | 🐛 42 | 🌐 Python | 📅 2019-08-17 - For Brain Tumor Segmentation
 * [Neural Caption Generator](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) ⭐ 502 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2019-10-23 - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
@@ -126,12 +126,12 @@ More info [here](http://tensorflow.org).
 
 ## Libraries
 
-* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,649 | 🐛 1,274 | 🌐 Python | 📅 2026-10-23 - High-level library for defining models
-* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,649 | 🐛 1,274 | 🌐 Python | 📅 2026-10-23 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
-* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,976 | 🐛 45 | 🌐 Python | 📅 2026-10-20 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
-* [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,569 | 🐛 580 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
-* [TensorLayer](https://github.com/tensorlayer/tensorlayer) ⭐ 7,385 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - Deep learning and reinforcement learning library for researchers and engineers
-* [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,285 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
+* [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) ⭐ 77,650 | 🐛 1,274 | 🌐 Python | 📅 2026-10-23 - High-level library for defining models
+* [SyntaxNet: Neural Models of Syntax](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,650 | 🐛 1,274 | 🌐 Python | 📅 2026-10-23 - A TensorFlow implementation of the models described in [Globally Normalized Transition-Based Neural Networks, Andor et al. (2016)](http://arxiv.org/pdf/1603.06042.pdf)
+* [Sonnet](https://github.com/deepmind/sonnet) ⭐ 9,977 | 🐛 45 | 🌐 Python | 📅 2026-10-20 - Sonnet is DeepMind's library built on top of TensorFlow for building complex neural networks.
+* [tflearn](https://github.com/tflearn/tflearn) ⭐ 9,571 | 🐛 580 | 🌐 Python | 📅 2024-05-06 - Deep learning library featuring a higher-level API
+* [TensorLayer](https://github.com/tensorlayer/tensorlayer) ⭐ 7,386 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - Deep learning and reinforcement learning library for researchers and engineers
+* [tensorpack](https://github.com/ppwwyyxx/tensorpack) ⭐ 6,286 | 🐛 14 | 🌐 Python | 📅 2023-08-06 - Neural Network Toolbox on TensorFlow focusing on training speed and on large datasets.
 * [keras-js](https://github.com/transcranial/keras-js) ⭐ 4,964 | 🐛 81 | 🌐 JavaScript | 📅 2022-06-15 - Run Keras models (tensorflow backend) in the browser, with GPU support
 * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) ⭐ 3,848 | 🐛 16 | 🌐 Python | 📅 2023-07-10 - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
 * [TensorForce](https://github.com/reinforceio/tensorforce) ⭐ 3,306 | 🐛 47 | 🌐 Python | 📅 2026-09-02 - TensorForce: A TensorFlow library for applied reinforcement learning
@@ -157,7 +157,7 @@ More info [here](http://tensorflow.org).
 
 ## Tools/Utilities
 
-* [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) ⭐ 8,329 | 🐛 109 | 🌐 Python | 📅 2024-07-22 - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
+* [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) ⭐ 8,328 | 🐛 109 | 🌐 Python | 📅 2024-07-22 - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
 * [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,551 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
 * [create-tf-app](https://github.com/radi-cho/create-tf-app) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-12-24 - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
 * [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
@@ -185,7 +185,7 @@ More info [here](http://tensorflow.org).
 
 ## Papers
 
-* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,649 | 🐛 1,274 | 🌐 Python | 📅 2026-10-23.
+* [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet) ⭐ 77,650 | 🐛 1,274 | 🌐 Python | 📅 2026-10-23.
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
 * [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
@@ -233,7 +233,7 @@ More info [here](http://tensorflow.org).
 
 ## Books
 
-* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,185 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25 - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,186 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25 - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
 * [Machine Learning with TensorFlow 2nd edition](\[http://tensorflowbook.com]\(https://github.com/chrismattmann/MLwithTensorFlow2ed\)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
@@ -262,9 +262,9 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 330,016 | 🐛 17 | 🌐 Python | 📅 2026-10-22
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 330,274 | 🐛 18 | 🌐 Python | 📅 2026-10-25
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._

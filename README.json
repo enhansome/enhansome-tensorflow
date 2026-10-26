@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43744,
+            "stars": 43747,
             "topics": [
               "deep-learning",
               "examples",
@@ -47,7 +47,7 @@
             "open_issues": 1,
             "owner": "Hvass-Labs",
             "repo": "TensorFlow-Tutorials",
-            "stars": 9270,
+            "stars": 9272,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -104,7 +104,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6031,
+            "stars": 6032,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5671,
+            "stars": 5672,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15922,
+            "stars": 15924,
             "topics": [
               "agentic-ai",
               "ai",
@@ -373,7 +373,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385,
+            "stars": 7386,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -411,7 +411,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385,
+            "stars": 7386,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -449,7 +449,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385,
+            "stars": 7386,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -487,7 +487,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385,
+            "stars": 7386,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -525,7 +525,7 @@
             "open_issues": 641,
             "owner": "thtrieu",
             "repo": "darkflow",
-            "stars": 6141,
+            "stars": 6142,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -559,7 +559,7 @@
             "open_issues": 110,
             "owner": "dennybritz",
             "repo": "cnn-text-classification-tf",
-            "stars": 5685,
+            "stars": 5686,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -580,7 +580,7 @@
             "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5546,
+            "stars": 5547,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -601,7 +601,7 @@
             "open_issues": 176,
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5423,
+            "stars": 5424,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -707,7 +707,7 @@
             "open_issues": 68,
             "owner": "cysmith",
             "repo": "neural-style-tf",
-            "stars": 3103,
+            "stars": 3104,
             "topics": [
               "convolutional-neural-network",
               "deep-learning",
@@ -968,7 +968,7 @@
             "open_issues": 28,
             "owner": "tensorlayer",
             "repo": "seq2seq-chatbot",
-            "stars": 840,
+            "stars": 839,
             "topics": [
               "bot",
               "chat",
@@ -1102,7 +1102,7 @@
             "open_issues": 10,
             "owner": "mlachmish",
             "repo": "MusicGenreClassification",
-            "stars": 608,
+            "stars": 606,
             "topics": [
               "deep-learning",
               "music-genre-classification",
@@ -1900,7 +1900,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19785,
+            "stars": 19786,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1982,7 +1982,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77649,
+            "stars": 77650,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2003,7 +2003,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77649,
+            "stars": 77650,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 45,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9976,
+            "stars": 9977,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -2051,7 +2051,7 @@
             "open_issues": 580,
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9569,
+            "stars": 9571,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2079,7 +2079,7 @@
             "open_issues": 38,
             "owner": "tensorlayer",
             "repo": "TensorLayer",
-            "stars": 7385,
+            "stars": 7386,
             "topics": [
               "a3c",
               "artificial-intelligence",
@@ -2117,7 +2117,7 @@
             "open_issues": 14,
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6285,
+            "stars": 6286,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -2565,7 +2565,7 @@
             "open_issues": 109,
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8329,
+            "stars": 8328,
             "topics": [
               "ai",
               "analytics",
@@ -2694,7 +2694,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77649,
+            "stars": 77650,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2721,7 +2721,7 @@
             "open_issues": 204,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28185,
+            "stars": 28186,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2751,11 +2751,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T19:52:53Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-25T15:33:49Z",
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 330016,
+            "stars": 330274,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T00:32:04.286Z",
+    "last_updated": "2026-10-26T00:43:37.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2784,7 +2784,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17531,
+      "stars": 17532,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
