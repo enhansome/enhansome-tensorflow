@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43744,
+            "stars": 43743,
             "topics": [
               "deep-learning",
               "examples",
@@ -174,7 +174,7 @@
             "open_issues": 22,
             "owner": "guillaume-chevalier",
             "repo": "LSTM-Human-Activity-Recognition",
-            "stars": 3489,
+            "stars": 3490,
             "topics": [
               "activity-recognition",
               "deep-learning",
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15933,
+            "stars": 15934,
             "topics": [
               "agentic-ai",
               "ai",
@@ -525,7 +525,7 @@
             "open_issues": 641,
             "owner": "thtrieu",
             "repo": "darkflow",
-            "stars": 6140,
+            "stars": 6139,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -655,7 +655,7 @@
             "open_issues": 14,
             "owner": "pavelgonchar",
             "repo": "colornet",
-            "stars": 3547,
+            "stars": 3546,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1900,7 +1900,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19785,
+            "stars": 19784,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1978,11 +1978,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T01:00:19Z",
+            "last_commit": "2026-10-29T08:21:25Z",
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77643,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1999,11 +1999,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T01:00:19Z",
+            "last_commit": "2026-10-29T08:21:25Z",
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77643,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2020,11 +2020,11 @@
             "id": 87067212,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T10:41:21Z",
+            "last_commit": "2026-10-29T13:42:08Z",
             "open_issues": 45,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9976,
+            "stars": 9975,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -2203,7 +2203,7 @@
             "open_issues": 47,
             "owner": "tensorforce",
             "repo": "tensorforce",
-            "stars": 3306,
+            "stars": 3305,
             "topics": [
               "control",
               "deep-reinforcement-learning",
@@ -2253,7 +2253,7 @@
             "open_issues": 327,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3065,
+            "stars": 3064,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2690,11 +2690,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T01:00:19Z",
+            "last_commit": "2026-10-29T08:21:25Z",
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77645,
+            "stars": 77643,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2751,11 +2751,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T01:26:10Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-29T12:38:48Z",
+            "open_issues": 22,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 330963,
+            "stars": 331211,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:56:42.633Z",
+    "last_updated": "2026-10-30T02:08:59.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2784,7 +2784,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17532,
+      "stars": 17533,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
