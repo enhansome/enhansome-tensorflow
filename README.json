@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5671,
+            "stars": 5669,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15948,
+            "stars": 15950,
             "topics": [
               "agentic-ai",
               "ai",
@@ -601,7 +601,7 @@
             "open_issues": 176,
             "owner": "ibab",
             "repo": "tensorflow-wavenet",
-            "stars": 5425,
+            "stars": 5424,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1900,7 +1900,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19784,
+            "stars": 19785,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1921,7 +1921,7 @@
             "open_issues": 38,
             "owner": "gliese581gg",
             "repo": "YOLO_tensorflow",
-            "stars": 1708,
+            "stars": 1707,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1982,7 +1982,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2003,7 +2003,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 46,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9975,
+            "stars": 9974,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -2051,7 +2051,7 @@
             "open_issues": 580,
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9568,
+            "stars": 9566,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2117,7 +2117,7 @@
             "open_issues": 14,
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6284,
+            "stars": 6283,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -2565,7 +2565,7 @@
             "open_issues": 108,
             "owner": "nebuly-ai",
             "repo": "optimate",
-            "stars": 8328,
+            "stars": 8327,
             "topics": [
               "ai",
               "analytics",
@@ -2694,7 +2694,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77637,
+            "stars": 77634,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2752,10 +2752,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T04:36:52Z",
-            "open_issues": 24,
+            "open_issues": 18,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 332283,
+            "stars": 332551,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T02:43:09.830Z",
+    "last_updated": "2026-11-05T02:48:37.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2784,7 +2784,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17533,
+      "stars": 17531,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
