@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15950,
+            "stars": 15951,
             "topics": [
               "agentic-ai",
               "ai",
@@ -1900,7 +1900,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19785,
+            "stars": 19786,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2253,7 +2253,7 @@
             "open_issues": 327,
             "owner": "stellargraph",
             "repo": "stellargraph",
-            "stars": 3064,
+            "stars": 3065,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2593,7 +2593,7 @@
             "open_issues": 1,
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3550,
+            "stars": 3551,
             "topics": [
               "anaconda",
               "data-analysis",
@@ -2721,7 +2721,7 @@
             "open_issues": 204,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28201,
+            "stars": 28204,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2751,11 +2751,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T04:36:52Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-06T02:37:29Z",
+            "open_issues": 20,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 332551,
+            "stars": 332785,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:48:37.186Z",
+    "last_updated": "2026-11-06T02:50:21.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2784,7 +2784,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17531,
+      "stars": 17530,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",

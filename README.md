@@ -53,7 +53,7 @@ More info [here](http://tensorflow.org).
 
 ## Models/Projects
 
-* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,950 | 🐛 1 | 📅 2026-09-30 - Framework for easily using Tensorflow with Kubernetes.
+* [Kubeflow](https://github.com/kubeflow/kubeflow) ⭐ 15,951 | 🐛 1 | 📅 2026-09-30 - Framework for easily using Tensorflow with Kubernetes.
 * [Policy Gradient](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) ⭐ 7,386 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - For Playing Atari Ping Pong
 * [Deep Q-Network](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) ⭐ 7,386 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - For Playing Frozen Lake Game
 * [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) ⭐ 7,386 | 🐛 38 | 🌐 Python | 📅 2023-02-18 - Actor Critic for Playing Discrete Action space Game (Cartpole)
@@ -136,7 +136,7 @@ More info [here](http://tensorflow.org).
 * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark) ⭐ 3,848 | 🐛 16 | 🌐 Python | 📅 2023-07-10 - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
 * [TensorForce](https://github.com/reinforceio/tensorforce) ⭐ 3,303 | 🐛 47 | 🌐 Python | 📅 2026-09-02 - TensorForce: A TensorFlow library for applied reinforcement learning
 * [TensorFlow Estimators](https://www.tensorflow.org/guide/estimators) - high-level TensorFlow API that greatly simplifies machine learning programming (originally [tensorflow/skflow](https://github.com/tensorflow/skflow) ⚠️ Archived)
-* [StellarGraph](https://github.com/stellargraph/stellargraph) ⭐ 3,064 | 🐛 327 | 🌐 Python | 📅 2024-04-10 - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
+* [StellarGraph](https://github.com/stellargraph/stellargraph) ⭐ 3,065 | 🐛 327 | 🌐 Python | 📅 2024-04-10 - Machine Learning on Graphs, a Python library for machine learning on graph-structured (network-structured) data.
 * [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow) ⭐ 2,786 | 🐛 120 | 🌐 Python | 📅 2019-07-18 - Convert Caffe models to TensorFlow format
 * [pytorch2keras](https://github.com/nerox8664/pytorch2keras) ⭐ 861 | 🐛 62 | 🌐 Python | 📅 2022-12-08 - Convert PyTorch models to Keras (with TensorFlow backend) format
 * [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) ⭐ 832 | 🐛 15 | 🌐 Ruby | 📅 2022-01-10 - TensorFlow native interface for ruby using SWIG
@@ -158,7 +158,7 @@ More info [here](http://tensorflow.org).
 ## Tools/Utilities
 
 * [Speedster](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/speedster) ⭐ 8,327 | 🐛 108 | 🌐 Python | 📅 2024-07-22 - Automatically apply SOTA optimization techniques to achieve the maximum inference speed-up on your hardware.
-* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,550 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
+* [ML Workspace](https://github.com/ml-tooling/ml-workspace) ⭐ 3,551 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-07-26 - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
 * [create-tf-app](https://github.com/radi-cho/create-tf-app) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2022-12-24 - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
 * [Guild AI](https://guild.ai) - Task runner and package manager for TensorFlow
 
@@ -233,7 +233,7 @@ More info [here](http://tensorflow.org).
 
 ## Books
 
-* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,201 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25 - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) ⭐ 28,204 | 🐛 204 | 🌐 Jupyter Notebook | 📅 2024-06-25 - by Cameron Davidson-Pilon. Introduction to Bayesian methods and probabilistic graphical models using tensorflow-probability (and, alternatively PyMC2/3).
 * [Machine Learning with TensorFlow 2nd edition](\[http://tensorflowbook.com]\(https://github.com/chrismattmann/MLwithTensorFlow2ed\)) by [Dr. Chris A. Mattmann](http://github.com/chrismattmann/), Chief Data and Artificial Intelligence Officer at UCLA and author also of [Tika in Action](https://www.manning.com/books/tika-in-action). This book makes the math-heavy topic of AI and ML approachable and practicle to a newcomer. Updated to Tensorflow2 and the latest version of this book.
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
@@ -262,9 +262,9 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 332,551 | 🐛 18 | 🌐 Python | 📅 2026-11-02
+* Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python) ⭐ 332,785 | 🐛 20 | 🌐 Python | 📅 2026-11-06
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
