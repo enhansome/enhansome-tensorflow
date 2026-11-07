@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43743,
+            "stars": 43741,
             "topics": [
               "deep-learning",
               "examples",
@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5669,
+            "stars": 5670,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15951,
+            "stars": 15952,
             "topics": [
               "agentic-ai",
               "ai",
@@ -580,7 +580,7 @@
             "open_issues": 6,
             "owner": "anishathalye",
             "repo": "neural-style",
-            "stars": 5547,
+            "stars": 5546,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -759,7 +759,7 @@
             "open_issues": 39,
             "owner": "devsisters",
             "repo": "DQN-tensorflow",
-            "stars": 2592,
+            "stars": 2593,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1900,7 +1900,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19786,
+            "stars": 19787,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -1982,7 +1982,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2003,7 +2003,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2051,7 +2051,7 @@
             "open_issues": 580,
             "owner": "tflearn",
             "repo": "tflearn",
-            "stars": 9566,
+            "stars": 9565,
             "topics": [
               "data-science",
               "deep-learning",
@@ -2117,7 +2117,7 @@
             "open_issues": 14,
             "owner": "tensorpack",
             "repo": "tensorpack",
-            "stars": 6283,
+            "stars": 6282,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -2593,7 +2593,7 @@
             "open_issues": 1,
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3551,
+            "stars": 3552,
             "topics": [
               "anaconda",
               "data-analysis",
@@ -2694,7 +2694,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77634,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2721,7 +2721,7 @@
             "open_issues": 204,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28204,
+            "stars": 28205,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2751,11 +2751,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T02:37:29Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-06T17:47:24Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 332785,
+            "stars": 333029,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T02:50:21.345Z",
+    "last_updated": "2026-11-07T02:22:45.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
