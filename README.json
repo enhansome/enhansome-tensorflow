@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "aymericdamien",
             "repo": "TensorFlow-Examples",
-            "stars": 43733,
+            "stars": 43731,
             "topics": [
               "deep-learning",
               "examples",
@@ -77,7 +77,7 @@
             "open_issues": 1,
             "owner": "vahidk",
             "repo": "EffectiveTensorflow",
-            "stars": 8570,
+            "stars": 8569,
             "topics": [
               "deep-learning",
               "ebook",
@@ -104,7 +104,7 @@
             "open_issues": 16,
             "owner": "nlintz",
             "repo": "TensorFlow-Tutorials",
-            "stars": 6036,
+            "stars": 6032,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "pkmital",
             "repo": "tensorflow_tutorials",
-            "stars": 5666,
+            "stars": 5664,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -336,7 +336,7 @@
             "open_issues": 1,
             "owner": "kubeflow",
             "repo": "kubeflow",
-            "stars": 15980,
+            "stars": 15981,
             "topics": [
               "agentic-ai",
               "ai",
@@ -676,7 +676,7 @@
             "open_issues": 153,
             "owner": "tensorlayer",
             "repo": "SRGAN",
-            "stars": 3466,
+            "stars": 3464,
             "topics": [
               "cnn",
               "gan",
@@ -1900,7 +1900,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19781,
+            "stars": 19780,
             "topics": []
           },
           "first_seen": "2026-08-28T06:21:33.258Z"
@@ -2024,7 +2024,7 @@
             "open_issues": 45,
             "owner": "google-deepmind",
             "repo": "sonnet",
-            "stars": 9980,
+            "stars": 9978,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -2593,7 +2593,7 @@
             "open_issues": 1,
             "owner": "ml-tooling",
             "repo": "ml-workspace",
-            "stars": 3552,
+            "stars": 3553,
             "topics": [
               "anaconda",
               "data-analysis",
@@ -2721,7 +2721,7 @@
             "open_issues": 204,
             "owner": "CamDavidsonPilon",
             "repo": "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
-            "stars": 28214,
+            "stars": 28213,
             "topics": [
               "bayesian-methods",
               "data-science",
@@ -2752,10 +2752,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-17T10:02:01Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 337182,
+            "stars": 337392,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2772,7 +2772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:24:08.686Z",
+    "last_updated": "2026-11-27T04:33:17.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "TensorFlow - A curated list of dedicated resources http://tensorflow.org",
@@ -2784,7 +2784,7 @@
       "open_issues": 34,
       "owner": "jtoy",
       "repo": "awesome-tensorflow",
-      "stars": 17535,
+      "stars": 17534,
       "topics": []
     },
     "original_repository_sha": "2c1780ae4ce541d5abb9b8a3bd5976a9ab3bfb29",
